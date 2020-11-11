@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stephen Hicy Dueñas		stephenhicy@git.training	@stephenhicy
 
 # THANKS
 
